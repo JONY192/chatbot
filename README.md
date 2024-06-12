@@ -42,3 +42,23 @@ To set up and run the chatbot:
    git clone https://github.com/JONY192/chatbot.git
    cd chatbot
 
+2. **Install Dependencies**:
+   Make sure Python is installed on your system. Use pip to install the required libraries:
+   ```bash
+   pip install tensorflow numpy nltk
+
+3.**Run the Chatbot**:
+   Execute the chatterbot.py script to start the chatbot:
+   ```bash
+   python chatterbot.py
+
+4.**Explore the Notebook**:
+   Open the Jupyter Notebook to see detailed instructions and code for building and training the chatbot:
+   ```bash
+   jupyter notebook "chatbot using NLP and TensorFlow.ipynb"
+5.**Contribution and Usage**:
+   We welcome contributions! Whether you’re interested in enhancing the model, adding new intents, or improving the interface, feel free to fork the repository and submit a pull request.
+
+## License
+   This project is licensed under the MIT License. See the LICENSE file for details.
+
