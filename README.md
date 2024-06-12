@@ -65,8 +65,6 @@ We welcome contributions! Whether you’re interested in enhancing the model, ad
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-For more details, visit the [JONY192/chatbot repository](https://github.com/JONY192/chatbot) on
 
 
