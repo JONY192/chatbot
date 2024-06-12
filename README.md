@@ -37,14 +37,9 @@ This repository contains a Python-based chatbot that leverages Natural Language 
 
 To set up and run the chatbot:
 
-## Getting Started
-
-To set up and run the chatbot:
-
 1. **Clone the Repository**:
 git clone https://github.com/JONY192/chatbot.git
 cd chatbot
-
 
 
 2. **Install Dependencies**:
@@ -52,17 +47,14 @@ Make sure Python is installed on your system. Use `pip` to install the required 
 pip install tensorflow numpy nltk
 
 
-
 3. **Run the Chatbot**:
 Execute the `chatterbot.py` script to start the chatbot:
 python chatterbot.py
 
 
-
 4. **Explore the Notebook**:
 Open the Jupyter Notebook to see detailed instructions and code for building and training the chatbot:
 jupyter notebook "chatbot using NLP and TensorFlow.ipynb"
-
 
 
 ## Contribution and Usage
